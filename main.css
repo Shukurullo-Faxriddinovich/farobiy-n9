@@ -7,3 +7,7 @@ body {
   margin-left: 10px;
   background-color: cadetblue;
 }
+
+p {
+  color: white;
+}
